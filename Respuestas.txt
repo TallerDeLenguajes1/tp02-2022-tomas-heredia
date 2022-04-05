@@ -1,0 +1,3 @@
+f) NO, por que esta en el otro branch
+la diferencia que noto es que la rama se dividio en 2.
+ahora veo que las ramas se an fucionado.
